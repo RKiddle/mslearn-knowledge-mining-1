@@ -3,5 +3,7 @@ obj
 
 .fake
 Labfiles/01-azure-search/modify-search/skillset.json
-Labfiles/01-azure-search/modify-search/skillset.json
-Labfiles/01-azure-search/modify-search/skillset.json
+
+Labfiles/02-search-skill/create-search/data_source.json
+Labfiles/02-search-skill/create-search/skillset.json
+Labfiles/02-search-skill/update-search/update-skillset.json
